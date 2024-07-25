@@ -13,7 +13,7 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-And now I renamed it!
+And now I renamed it! Now into a new branch
 
 Contents
 --------
